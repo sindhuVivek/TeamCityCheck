@@ -1,0 +1,24 @@
+{
+  "SearchPolicy":{
+    "Search Policy Tab": "xpathClick",
+    "Policy #":"xpathSetValue",
+    "Search":"xpathClick"
+  },
+  "AuditSchedule":{
+    "Audit Schedule":"xpathClick",
+    "Start":"xpathClick",
+    "Final Audit":"xpathClick",
+    "Details":"xpathClick",
+    "Audited Basis":"xpathSetValue",
+    "Calculate Premiums":"labelClick",
+    "Submit":"labelClick"
+  },
+  "ValidateAudit":{
+    "Details1":"xpathClick",
+    "Special Approve":"xpathClickAndHandleAlert",
+    "OK":"xpathClick"
+  },
+  "AuditComplete":{
+    "Submit":"labelClick"
+  }
+}

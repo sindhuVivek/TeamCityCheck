@@ -1,0 +1,8 @@
+{
+  "SearchResultsPolicyLink": "xpathClick",
+  "NotesSideTab": "xpathClick",
+  "Text Search": "labelSetValue",
+  "Author": "labelSetValue",
+  "Related To": "labelSelect",
+  "SearchNote": "xpathClick"
+}

@@ -1,0 +1,68 @@
+{
+    "PolicyInfo": {
+        "Term Type": "labelSelect",
+        "Effective Date": "labelSetValue",
+        "Expiration Date": "labelSetValue",
+        "Date Quote Needed": "labelSetValue",
+        "Estimated Premium": "labelSetValue",
+        "FEIN": "labelSetValue",
+        "Organization Type": "labelSelect"
+    },
+    "CoveragePart": {
+        "Accounts Receivable": "labelClick",
+        "Contractors Equipment": "labelClick",
+        "Signs": "labelClick"
+    },
+    "Locations": {
+        "Address 1": "labelSetValue",
+        "Address 2": "labelSetValue",
+        "Address 3": "labelSetValue",
+        "ZIP Code": "labelSetValue",
+        "State": "labelSelect",
+        "City": "labelSetValue",
+        "OK": "labelClick"
+    },
+    "Buildings": {
+        "Description": "labelSetValue",
+        "Year Built": "labelSetValue",
+        "Construction Type": "labelSelect",
+        "# of Stories": "labelSetValue",
+        "# of Basements": "labelSetValue",
+        "Alarm Type": "labelSelect",
+        "Alarm Grade": "labelSelect",
+        "Front Exposure": "labelSetValue",
+        "Rear Exposure": "labelSetValue",
+        "OK": "labelClick"
+    },
+    "AccRecievalbeCoverage": {
+        "Reporting": "selectRadioByID",
+        "Coinsurance Pct.": "labelSelect",
+        "Accts Receivable - Off Premises Property": "selectCheckboxByLabel",
+        "Description": "labelSetValue",
+        "Limit": "labelSetValue",
+        "Location / Building": "labelSelect",
+        "Receptacle Type": "labelSelect",
+        "Forwarded To Home Office": "selectCheckboxByLabel",
+        "Percent Duplicated": "labelSetValue",
+        "Account #": "labelSetValue",
+        "Customer Name": "labelSetValue"
+    },
+    "BuildingDetails": {
+        "Add" : "labelClick",
+        "Location / Building": "xpathSelect",
+        "Receptacle Type": "xpathSelect",
+        "Percent Duplicated": "xpathSelect",
+        "Limit": "xpathSetValue"
+    },
+    "PolicyChange": {
+        "Organization Type": "xpathSelect",
+        "Left Pane Menu Item": "leftMenuClick",
+        "Add Location Actions": "xpathClick",
+        "Add Building": "labelHover",
+        "New Building": "xpathClickAndHandleAlert",
+        "Building Description": "xpathSetValue",
+        "OK": "xpathClick",
+        "Quote": "xpathClickAndHandleWarnings",
+        "Issue Policy": "xpathClickAndHandleWarnings"
+    }
+}

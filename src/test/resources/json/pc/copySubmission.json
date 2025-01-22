@@ -1,0 +1,10 @@
+{
+    "PolicyIssueWithCopySubmission": {
+        "Actions": "xpathClick",
+        "Copy Submission": "xpathClick",
+        "Next": "xpathClick",
+        "Quote": "xpathClick",
+        "Bind Options": "xpathClick",
+        "Issue Policy": "xpathClick"
+    }
+}

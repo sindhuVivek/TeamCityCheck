@@ -1,0 +1,50 @@
+{
+  "NewSubmission":
+
+  {
+    "Actions": "xpathClick",
+    "New Submission":"xpathClick",
+    "Product Name":"labelSelectProduct"
+  },
+
+  "Offering": {
+    "Offering Selection": "labelSelect",
+    "Next": "labelClick"
+  },
+  "Qualification":{
+    "Are any medical facilities provided or medical professionals employed or contracted?": "selectRadioByLabel",
+    "Have you or any affiliated company manufactured any products used by the aerospace industry?": "selectRadioByLabel",
+    "Are there any pending suits or anticipated legal action related to business activities or products?": "selectRadioByLabel",
+    "In addition to disclosed Claim History, have you paid any direct settlements related to business activities or products?": "selectRadioByLabel",
+    "Next": "labelClick"
+  },
+  "Policy Info":{
+    "Organization Type":"labelSelect",
+    "Accept Terrorism Risk Insurance Act":"selectRadioByLabel",
+    "Reinsurance":"selectRadioByLabel",
+    "Next":"labelClick"
+  },
+  "Locations":{
+    "Next":"labelClick"
+  },
+  "Coverages":{
+    "Additional Coverages": "xpathClick",
+    "Add Coverages": "labelClick",
+    "Search Coverages": "xpathClick",
+    "Designated Pollutants Coverage":"xpathClick",
+    "Add Selected Coverages":"labelClick",
+    "Designated Pollutants": "xpathSetValue",
+    "Next":"labelClick"
+  },
+  "Exposures":{
+    "Add":"labelClick",
+    "Location Name":"xpathClick",
+    "Location 1":"xpathClick",
+    "Class Code":"xpathDeleteAndSetValue",
+    "Basis":"xpathSetValue",
+    "Next":"labelClick"
+  },
+  "Modifiers":{
+    "GL Experience Modifier":"labelSetValue"
+  }
+}

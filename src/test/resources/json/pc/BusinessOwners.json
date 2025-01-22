@@ -1,0 +1,88 @@
+{
+    "NewSubmission": {
+        "Actions": "xpathClick",
+        "New Submission": "xpathClick",
+        "Product Name": "labelSelectProduct"
+    },
+    "PolicyInfo": {
+        "Term Type": "labelSelect",
+        "Effective Date": "labelSetValue",
+        "Expiration Date": "labelSetValue",
+        "Date Quote Needed": "labelSetValue",
+        "Estimated Premium": "labelSetValue",
+        "FEIN": "labelSetValue",
+        "Organization Type": "labelSelect",
+        "Next": "labelClick"
+    },
+    "BusinessOwners": {
+        "Business Type": "labelSelect",
+        "Add": "labelClick"
+    },
+    "Location": {
+        "Address of: Location": "labelSelect",
+        "Rate Territory": "labelSelect",
+        "Add": "labelClick"
+        },
+        "Buildings": {
+            "Address of: Building": "labelSelect",
+            "Business Type": "labelSelect"
+        },
+        "Building Coverages": {
+            "Business Coverages": "xpathClick",
+             "Building Coverage" : "selectCheckboxByLabel",
+             "Limit": "labelSetValue",
+             "Deductible": "labelSelect",
+             "Coinsurance": "labelSelect",
+             "Valuation": "labelSelect",
+             "Inflation Percent": "labelSelect",
+             "OK": "okClick"
+        },
+    "LocationCoverages": {
+        "Location Coverages": "xpathClick",
+        "Employee Dishonesty": {
+            "Employee Dishonesty": "selectCheckboxByLabel",
+            "Limit": "labelSetValue",
+            "Number of Employees": "labelSetValue"
+        },
+        "Forgery or Alteration": {
+            "Forgery or Alteration": "selectCheckboxByLabel",
+            "Limit": "labelSetValue"
+        }
+    },
+    "Location Additional Coverages": {
+        "Location Additional Coverages": "xpathClick",
+            "Fire Department Services":"selectCheckboxByLabel",
+            "Fire Department Service Limit": "labelSelect",
+            "Volunteer Fire Departments Limit": "labelSetValue",
+            "OK": "okClick"
+    },
+    "BusinessCoverages": {
+        "Small Business Line Coverages": "xpathClick",
+            "General Liability": "selectCheckboxByLabel",
+            "General Liability Occurrence Limit": "labelSelect",
+            "General Liability Aggregate Limit": "labelSelect",
+            "General Liability Deductible": "labelSelect",
+            "Medical Expense (per person)": "labelSelect",
+            "Personal and Advertising Injury Liability": "selectCheckboxByLabel",
+            "Personal and Advertising Injury Limit": "labelSelect",
+            "Personal and Advertising Injury Deductible": "labelSelect",
+            "Directors and Officers Liability": "selectCheckboxByLabel",
+            "Tenants Legal Liability": "selectCheckboxByLabel",
+            "Deductible": "labelSelect",
+            "Business Income with Extra Expense": "selectCheckboxByLabel",
+            "Coverage Type": "labelSelect",
+            "Number of Months": "labelSetValue"
+
+    },
+    "Small Business Line Additional Coverages":{
+    "Small Business Line Additional Coverages": "xpathClick",
+    "Identity Fraud Expense": {
+        "Identity Fraud Expense": "selectCheckboxByLabel",
+        "Aggregate Limit": "labelSetValue"
+    },
+    "Limited Fungi Or Bacteria Coverage (Liability)": {
+        "Limited Fungi Or Bacteria Coverage (Liability)": "selectCheckboxByLabel",
+        "Fungi And Bacteria Liability Aggregate Limit": "labelSetValue"
+    }
+}
+}

@@ -1,0 +1,90 @@
+{
+  "NewSubmission": {
+    "Actions": "xpathClick",
+    "New Submission": "xpathClick",
+    "Product Name": "labelSelectProduct"
+  },
+  "Offering": {
+    "Offering Selection": "labelSelect",
+    "Next": "labelClick"
+  },
+  "Qualification": {
+    "Is the applicant currently insured?": "labelSelect",
+    "Is the applicant's license currently suspended, canceled, or revoked?": "selectRadioByLabel",
+    "Has the applicant's license ever been canceled, suspended or revoked?": "selectRadioByLabel",
+    "Any drivers with convictions for moving traffic violations within the past 3 years? If 'Yes' please explain.": "selectRadioByLabel",
+    "Has any policy or coverage been declined, canceled, or non-renewed during the prior 3 years?": "selectRadioByLabel",
+    "Next": "labelClick"
+  },
+  "PolicyInfo": {
+    "Next": "labelClick"
+  },
+  "AutoPrefillPriorPolicy": {
+    "Next": "labelClick"
+  },
+  "Driver": {
+    "Add": "labelClick",
+    "New Person": "xpathClick",
+    "Driver_First name": "labelSetValue",
+    "Driver_Last name": "labelSetValue",
+    "Driver_Date of Birth": "labelSetValue",
+    "Driver_Marital Status": "labelSelect",
+    "Driver_City": "labelSetValue",
+    "Driver_State": "labelSelect",
+    "Driver_Address 1": "labelSetValue",
+    "Driver_ZIP Code": "labelSetValue",
+    "Driver_Address Type": "labelSelect",
+    "Driver_License #": "labelSetValue",
+    "Driver_License State": "labelSelect",
+    "OK": "xpathClick",
+    "RolesTab": "xpathClick",
+    "Driver_Year First Licensed": "labelSetValue",
+    "Driver_NoOfAccidentsPolicyLevel": "xpathSelect",
+    "Driver_NoOfAccidentsAccountLevel": "xpathSelect",
+    "Driver_NoOfViolationsPolicyLevel": "xpathSelect",
+    "Driver_NoOfViolationsAccountLevel": "xpathSelect",
+    "Next": "labelClick"
+  },
+  "Vehicle": {
+    "Create Vehicle": "labelClick",
+    "Garaged At": "labelSelect",
+    "Vehicle Type": "labelSelect",
+    "VIN": "xpathSetValue",
+    "Model Year": "xpathSetValue",
+    "Make": "xpathSetValue",
+    "Model": "xpathSetValue",
+    "Body Type": "xpathSelect",
+    "Color": "labelSetValue",
+    "License Plate": "labelSetValue",
+    "License State": "labelSelect",
+    "Cost New": "labelSetValue",
+    "Stated Value": "labelSetValue",
+    "Add": "labelClick",
+    "AddDriver": "xpathClick",
+    "Next": "labelClick"
+  },
+  "PACoverages": {
+    "Auto Liability Package": "labelSelect",
+    "Medical Limit": "labelSelect"
+  },
+  "AdditionalCoverages": {
+    "AdditionalCoveragesTab": "xpathClick",
+    "Rental Car Loss of Use": "selectCheckboxByLabel",
+    "Rental Car Loss of Use Limit": "labelSelect"
+  },
+  "ExclusionsAndConditions": {
+    "ExclusionsAndConditionsTab": "xpathClick",
+    "Add Exclusion or Condition": "labelClick",
+    "Keyword": "labelSetValue",
+    "Search": "xpathClick",
+    "SelectCheckbox": "selectCheckboxWithinTable",
+    "Add Selected Exclusions And Conditions": "labelClick"
+  },
+  "PolicyChange": {
+    "Next": "labelClick",
+    "Next2": "labelClick",
+    "Next3": "labelClick",
+    "Next4": "labelClick",
+    "Medical Payments": "selectCheckboxByLabel"
+  }
+}

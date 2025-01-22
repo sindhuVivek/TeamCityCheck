@@ -1,0 +1,7 @@
+{
+  "Search dropdown": "xpathClick",
+  "ActivityTabMenu": "xpathClick",
+  "Assigned to": "labelSetValue",
+  "Policy Number": "labelSetValue",
+  "SearchActivity": "xpathClick"
+}

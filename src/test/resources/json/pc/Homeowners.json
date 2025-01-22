@@ -1,0 +1,38 @@
+{
+  "NewSubmission": {
+    "Actions": "xpathClick",
+    "New Submission": "xpathClick",
+    "Product Name": "labelSelectProduct"
+  },
+  "Qualification": {
+    "Policy Type": "labelSelect",
+    "Coverage Form": "labelSelect",
+    "Who occupies this dwelling?": "xpathSelect",
+    "Do you occupy this dwelling full time?": "selectRadioByLabel",
+    "Next": "labelClick"
+  },
+  "Policy Info": {
+    "Next": "labelClick"
+  },
+  "Dwelling": {
+    "Fire Protection Class": "labelSelect",
+    "Next": "labelClick"
+  },
+  "Dwelling Construction": {
+    "Next": "labelClick"
+  },
+  "Coverages": {
+    "Coinsurance": "labelSelect",
+    "Prohibited Use - Civil Authority": "labelSelect",
+    "Loss of Rental Income": "xpathClick",
+    "CovB Limit Pct": "labelSelect",
+    "Next": "labelClick"
+  },
+  "PolicyChange": {
+    "Next": "labelClick",
+    "Next2": "labelClick",
+    "Next3": "labelClick",
+    "HOPolicyChange_Coinsurance": "labelSelect",
+    "HOPolicyChange_CovB Limit Pct": "labelSelect"
+  }
+}

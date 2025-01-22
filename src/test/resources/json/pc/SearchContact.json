@@ -1,0 +1,9 @@
+{
+  "Search dropdown": "xpathClick",
+  "ContactsTabMenu": "xpathClick",
+  "Type": "labelSelect",
+  "First name": "labelSetValue",
+  "Last name": "labelSetValue",
+  "Company Name": "labelSetValue",
+  "SearchButtonContact": "xpathClick"
+}

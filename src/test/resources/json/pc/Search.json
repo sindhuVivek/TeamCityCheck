@@ -1,0 +1,47 @@
+{
+  "AccountSearch": {
+    "Search dropdown": "xpathClick",
+    "AccountsTabMenu": "xpathClick",
+    "Account Number": "labelSetValue",
+    "First name": "labelSetValue",
+    "Last name": "labelSetValue",
+    "Company Name": "labelSetValue",
+    "SearchButton": "xpathClick"
+  },
+  "ContactSearch": {
+    "Search dropdown": "xpathClick",
+    "ContactsTabMenu": "xpathClick",
+    "Type": "labelSelect",
+    "First name": "labelSetValue",
+    "Last name": "labelSetValue",
+    "Company Name": "labelSetValue",
+    "SearchButton": "xpathClick"
+  },
+  "NoteSearch": {
+    "Text Search": "labelSetValue",
+    "Author": "labelSetValue",
+    "Related To": "labelSelect",
+    "Search": "xpathClick"
+  },
+  "ActivitySearch": {
+    "Search dropdown": "xpathClick",
+    "ActivityTabMenu": "xpathClick",
+    "Assigned to": "labelSetValue",
+    "Policy Number": "labelSetValue",
+    "SearchButton": "xpathClick"
+  },
+  "NewNote": {
+    "Actions": "xpathClick",
+    "NewNote": "xpathClick",
+    "Topic": "xpathSelect",
+    "Subject": "xpathSetValue",
+    "Security Level": "xpathSelect",
+    "Text": "xpathSetValue",
+    "Update": "labelClick"
+  },
+  "PolicySearch": {
+    "Policy": "xpathClick",
+    "Policy Number": "labelSetValue",
+    "Search": "xpathClick"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "PolicyChange": {
+        "Left Pane Menu Item": "leftMenuClick",
+        "Coverage Type": "xpathClick",
+        "Employer's Liability Limit": "xpathSelect",
+        "Quote": "xpathClickAndHandleWarnings",
+        "Issue Policy": "xpathClickAndHandleWarnings"
+    }
+}

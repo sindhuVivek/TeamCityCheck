@@ -1,0 +1,8 @@
+{
+  "Search dropdown": "xpathClick",
+  "PolicyTabMenu": "xpathClick",
+  "Policy Number": "labelSetValue",
+  "First name": "labelSetValue",
+  "Last name": "labelSetValue",
+  "SearchButtonPolicy": "xpathClick"
+}

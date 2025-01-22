@@ -1,0 +1,9 @@
+{
+  "Search dropdown": "xpathClick",
+  "AccountsTabMenu": "xpathClick",
+  "Account Number": "labelSetValue",
+  "First name": "labelSetValue",
+  "Last name": "labelSetValue",
+  "Company Name": "labelSetValue",
+  "SearchButton": "xpathClick"
+}

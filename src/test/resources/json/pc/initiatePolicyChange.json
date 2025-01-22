@@ -1,0 +1,9 @@
+{
+    "PolicyChange": {
+        "Actions": "xpathClick",
+        "Change Policy": "xpathClick",
+        "Effective Date": "xpathSetValue",
+        "Description": "xpathSetValue",
+        "Next": "xpathClick"
+    }
+}

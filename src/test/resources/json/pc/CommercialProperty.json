@@ -1,0 +1,62 @@
+{
+  "NewSubmission": {
+    "Actions": "xpathClick",
+    "New Submission": "xpathClick",
+    "Product Name": "labelSelectProduct"
+  },
+  "PolicyInfo": {
+    "Term Type": "labelSelect",
+    "Effective Date": "labelSetValue",
+    "Date Quote Needed": "labelSetValue",
+    "Estimated Premium": "labelSetValue",
+    "Organization Type": "labelSelect",
+    "Next": "labelClick"
+  },
+  "Buildings": {
+    "Building Location": "setJsonColumnValue",
+    "Property Class Code": "labelSetValue",
+    "Coverage Form": "labelSelect",
+    "Rate Type": "labelSelect",
+    "Year Built": "labelSetValue",
+    "Construction Type": "labelSelect",
+    "# of Stories": "labelSetValue",
+    "# of Basements": "labelSetValue",
+    "Basement Area": "labelSetValue",
+    "OK": "xpathClick",
+    "Next": "labelClick"
+  },
+  "Blankets": {
+    "CoverageAction": "setJsonColumnValue",
+    "Blanket Type": "labelSelect",
+    "Group Type": "labelSelect",
+    "Description": "labelSetValue",
+    "Location": "labelSelect",
+    "Limit": "labelSetValue",
+    "Deductible": "labelSelect",
+    "Coinsurance": "labelSelect",
+    "Show Coverages": "labelClick",
+    "LocationCoverage": "setJsonColumnValue",
+    "Blanketok": "xpathClick",
+    "Next": "labelClick"
+  },
+  "Modifiers": {
+    "Building features": "labelSetValue",
+    "Employees": "labelSetValue",
+    "Management": "setJsonColumnValue",
+    "Premises and equipment": "labelSetValue",
+    "Protection": "labelSetValue",
+    "Risk elements not addressed in the classification plan": "labelSetValue",
+    "Next": "labelClick"
+  },
+  "Rate": {
+    "Rate": "xpathClick"
+  },
+  "Finish Quote": {
+    "Finish Quote": "labelClick"
+  },
+  "Issue": {
+    "Bind Options": "xpathClick",
+    "Issue Policy": "xpathClickAndHandleAlert",
+    "PolicyNumberFetch": ""
+  }
+}

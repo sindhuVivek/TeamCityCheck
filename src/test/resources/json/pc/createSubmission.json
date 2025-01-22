@@ -1,0 +1,17 @@
+{
+  "CreateQuote": {
+    "Quote": "xpathClick"
+  },
+  "PAQuoteQuestion": "",
+  "RiskAnalysis": {
+    "WarningMessage": "",
+    "Risk Analysis": "labelClick",
+    "UW Issue Approve": "xpathClick",
+    "OK": "xpathClick"
+  },
+  "Issue": {
+    "Bind Options": "xpathClick",
+    "Issue Policy": "xpathClickAndHandleAlert",
+    "PolicyNumberFetch": ""
+  }
+}

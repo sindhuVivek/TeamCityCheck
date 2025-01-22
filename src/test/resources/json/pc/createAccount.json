@@ -1,0 +1,25 @@
+{
+      "CreateAccount":{
+        "Account": "xpathClick",
+        "New Account":"xpathClick",
+        "Company Name":"labelSetValue",
+        "First name":"labelSetValue",
+        "Last name":"labelSetValue",
+        "Search":"xpathClick",
+        "Create New Account":"labelClick",
+        "Person":"labelClick",
+        "Company": "xpathClick",
+        "Address 1":"labelSetValue",
+        "ZIP Code": "xpathSetValue",
+        "State": "labelSelect",
+        "Address Type":"labelSelect",
+        "City": "labelSetValue",
+        "Address 2": "labelSetValue",
+        "Address 3": "labelSetValue",
+        "Address 1 Label": "xpathClick",
+        "Organization":"labelSetValue",
+        "Producer Code":"labelSelect",
+        "Update": "labelClick",
+        "AccountFetch": ""
+    }
+}
