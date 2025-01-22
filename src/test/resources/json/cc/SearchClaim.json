@@ -1,0 +1,6 @@
+{
+  "Search": "xpathClick",
+  "Claim #": "xpathSetValue",
+  "SearchClaimClick": "xpathClick",
+  "ClickClaimLink": "xpathClick"
+}

@@ -1,0 +1,21 @@
+{
+    "NewActivity": {
+        "Desktop": "xpathClick",
+        "My Activities": "xpathClick",
+        "OpenedAsc": "xpathClick",
+        "Actions": "xpathClick",
+        "New Shared Activity": "labelHover",
+        "Reminder": "labelHover",
+        "notification": "xpathClick",
+        "Return to My Activities": "assertXpath",
+        "Subject": "labelSetValue",
+        "Priority": "labelSelect",
+        "Update": "xpathClick"
+    },
+    "ActivityDetails":{
+        "My Approval Requests": "xpathClick",
+        "My Activities": "xpathClick",
+        "OpenedDesc": "xpathClick",
+        "SubjectLine": "xpathClick"
+    }
+}

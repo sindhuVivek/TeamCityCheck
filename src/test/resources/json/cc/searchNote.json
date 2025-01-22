@@ -1,0 +1,12 @@
+{
+  "Notes": "xpathClick",
+  "Topic": "labelSelect",
+  "Author:": "labelSelect",
+  "Find Text:": "labelSetValue",
+  "Related To": "labelSelect",
+  "Date Range:": "labelSelect",
+  "Search": "labelClick",
+  "Verify_Author": "xpathAssert",
+  "Verify_Topic": "xpathAssert",
+  "Verify_NotesDetails": "xpathAssert"
+}

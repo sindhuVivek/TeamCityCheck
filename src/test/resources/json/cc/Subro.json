@@ -1,0 +1,11 @@
+{
+        "tabBarClaimTabMoreOptions": "xpathClick",
+        "claimSearch": "xpathSetValue",
+        "clickSearch": "xpathClick",
+        "Subrogation": "xpathClick",
+        "Edit": "xpathClick",
+        "Subrogation Status": "labelSelect",
+        "Outcome": "labelSelect",
+        "Update": "xpathClick",
+        "ValidateSubrogationStatus": "xpathAssert"
+   }

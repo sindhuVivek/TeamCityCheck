@@ -1,0 +1,7 @@
+{
+    "tabBarClaimTabMoreOption" : "xpathClick",
+    "claimSearch" : "xpathSetValue",
+    "clickSearch": "xpathClick",
+    "Services" : "labelClick",
+    "SearchServices": ""
+}

@@ -1,0 +1,13 @@
+{
+    "tabBarClaimTabMoreOption" : "xpathClick",
+    "claimSearch" : "xpathSetValue",
+    "clickSearch": "xpathClick",
+    "Services" : "labelClick",
+    "Assign": "xpathClick",
+    "Return to Services": "assertXpath",
+    "Select from list:": "labelSelect",
+    "AssignFromList": "xpathClick",
+    "CancelServiceBtn": "xpathClick",
+    "Reason for canceling": "labelTextArea",
+    "Cancel Service": "xpathClick"
+}

@@ -1,0 +1,15 @@
+{
+    "Exposures": "xpathClick",
+    "Exposures Details": "labelSelect",
+    "Actions": "xpathClick",
+    "Choose by Coverage": "labelHover",
+    "CoverageName": "hover",
+    "TypeOfCoverage": "labelValueClick",
+    "New Exposure - Vehicle": "assertTitleExact",
+    "Claimant": "labelSelect",
+    "Type": "labelSelect",
+    "Update": "xpathClick",
+    "Create Date": "xpathClick",
+    "ClaimantType": "xpathClick",
+    "AddedClaimant": "contains"
+}

@@ -1,0 +1,10 @@
+{
+"Administration":"labelClick",
+"Users & Security":"labelClick",
+"Roles":"xpathClick",
+"Role Name":"labelValueClick",
+"Role Description":"xpathAssert",
+"Permission":"xpathAssert",
+"Code":"xpathAssert",
+"Description":"xpathAssert"
+}

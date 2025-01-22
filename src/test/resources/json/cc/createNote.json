@@ -1,0 +1,12 @@
+{
+  "Actions": "labelClick",
+  "Note": "xpathClick",
+  "NoteTopic": "xpathSelect",
+  "Security Type": "xpathSelect",
+  "Subject": "xpathSetValue",
+  "Text": "xpathSetValue",
+  "Related": "xpathSelect",
+  "Confidential": "selectRadioByID",
+  "Update": "labelClick",
+  "Notes": "xpathClick"
+}

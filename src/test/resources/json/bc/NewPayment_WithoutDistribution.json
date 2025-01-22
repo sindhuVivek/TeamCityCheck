@@ -1,0 +1,11 @@
+{
+  "NewPayment_WithoutDistribution": {
+    "InitialPayments": "xpathClick",
+    "Actions": "xpathClick",
+    "New Payment": "labelHover",
+    "NewDirectBillPayment": "xpathClick",
+    "Amount": "labelInputValue",
+    "Execute Without Distribution": "xpathClick",
+    "UpdatedPayments": "xpathClick"
+  }
+}

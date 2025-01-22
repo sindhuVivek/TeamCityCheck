@@ -1,0 +1,16 @@
+{
+    "Actions": "xpathClick",
+    "Reserve": "xpathClick",
+    "Exposure": "xpathSelect",
+    "Cost Type": "xpathSelect",
+    "Cost Category": "xpathSelect",
+    "Amount": "xpathDeleteAndSetValue",
+    "Save": "labelClick",
+    "Financials": "labelClick",
+    "Transactions": "xpathClick",
+    "Financials: Transactions": "assertTitleExact",
+    "Reserves": "xpathSelect",
+    "Create Date": "xpathClick",
+    "View Details": "xpathClick",
+    "ValidateCostType": "xpathAssert"
+}

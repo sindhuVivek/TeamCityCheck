@@ -1,0 +1,11 @@
+{
+    "tabBarClaimTabMoreOption" : "xpathClick",
+    "claimSearch" : "xpathSetValue",
+    "clickSearch": "xpathClick",
+    "Actions" : "labelClick",
+    "Interview" : "doubleClick",
+    "Activity Type" : "xpathClick",
+    "Description" : "xpathSetValue",
+    "Update": "labelClick",
+    "ValidateActivity": "labelValueClick"
+}

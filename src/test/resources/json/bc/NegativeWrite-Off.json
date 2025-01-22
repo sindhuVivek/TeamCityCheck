@@ -1,0 +1,12 @@
+{
+  "NegativeWriteOff": {
+    "Actions": "xpathClick",
+    "New Transaction": "labelHover",
+    "Negative Write-Off": "xpathClick",
+    "Next": "xpathClick",
+    "Full Amount":"xpathClick",
+    "Amount":"xpathSetValue",
+    "Click Next1": "xpathClick",
+    "Finish": "xpathClick"
+  }
+}

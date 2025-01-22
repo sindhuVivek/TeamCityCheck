@@ -1,0 +1,32 @@
+
+{
+    "GotoTroubleTicketScreen":{
+        "TroubleTicketScreen": "xpathClick"
+},
+
+    "CreateTicket": {
+        "Desktop": "xpathClick",
+        "My Trouble Tickets": "xpathClick",
+        "New": "labelClick",
+        "Type": "labelSelect",
+        "Subject": "labelSetValue",
+        "Details": "labelTextArea",
+        "Priority": "labelSelect",
+        "Next": "labelClick",
+        "Add Accounts": "labelClick",
+        "Account #": "labelSetValue",
+        "Search": "xpathClick",
+        "AccountSelect": "xpathClick",
+        "Select Accounts": "labelClick",
+        "Add Policies": "labelClick",
+        "Policy #": "labelSetValue",
+        "Search1": "xpathClick",
+        "PolicySelect": "xpathClick",
+        "Select Policies": "labelClick",
+        "Next1": "labelClick",
+        "Next2": "labelClick",
+        "Next3": "labelClick",
+        "Finish": "labelClick"
+    }
+
+}

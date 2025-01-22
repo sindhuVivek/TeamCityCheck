@@ -1,0 +1,16 @@
+{
+    "ReverseWriteOff": {
+      "Previous Amount": "xpathClick",
+      "Actions": "xpathClick",
+      "New Transaction": "labelHover",
+      "Write-Off Reversal": "xpathClick",
+      "Search": "xpathClick",
+      "Reversal Amount": "xpathClick",
+      "Select": "xpathClick",
+      "Finish": "xpathClick"
+    },
+    "ValidateReverseWriteOffAmount": {
+      "Overview": "xpathClick",
+      "Actual Amount": "xpathClick"
+    }
+}

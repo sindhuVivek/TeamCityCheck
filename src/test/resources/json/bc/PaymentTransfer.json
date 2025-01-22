@@ -1,0 +1,14 @@
+{
+    "PaymentTransfer":{
+        "Actions":  "xpathClick",
+        "MoveToAccountUnappliedFund" : "xpathClick",
+        "Search button" : "xpathClick",
+        "Selected Account #" : "xpathSetValue",
+        "Move Search":   "xpathClick",
+        "Select":  "xpathClick",
+        "Execute Without Distribution" : "xpathClick"
+  },
+    "VerifyStatus":{
+        "Payments Check":  "xpathClick"
+    }
+}

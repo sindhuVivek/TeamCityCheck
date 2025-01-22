@@ -1,0 +1,6 @@
+{
+  "Claim": "xpathClick",
+  "ClaimNumber": "xpathSetValue",
+  "SearchIcon": "xpathClick",
+  "Summary": "assertTitleExact"
+}

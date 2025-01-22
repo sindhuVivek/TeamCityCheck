@@ -1,0 +1,11 @@
+{
+  "NewPayment_WithDistribution": {
+    "InitialPayments": "xpathClick",
+    "Actions": "xpathClick",
+    "New Payment": "labelHover",
+    "NewDirectBillPayment": "xpathClick",
+    "Amount": "labelInputValue",
+    "Execute": "xpathClick",
+    "UpdatedPayments": "xpathClick"
+  }
+}

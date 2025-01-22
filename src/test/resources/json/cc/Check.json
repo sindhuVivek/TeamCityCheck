@@ -1,0 +1,23 @@
+{
+  "Financials": "labelClick",
+  "Checks": "xpathClick",
+  "No data to display": "exists",
+  "Actions": "xpathClick",
+  "Check": "labelClick",
+  "Name": "labelSelect",
+  "Type": "labelSelect",
+  "InsurPay Type": "labelSelect",
+  "InsurPay Method": "labelSelect",
+  "Next": "labelClick",
+  "Reserve Line": "labelSelect",
+  "Payment Type": "xpathSelect",
+  "Category": "xpathSelect",
+  "Amount": "xpathSetValue",
+  "Next2": "labelClick",
+  "Finish": "xpathClick",
+  "Checkdetails": {
+    "Financials": "labelClick",
+    "Checks": "xpathClick",
+    "CheckCount": ""
+  }
+}

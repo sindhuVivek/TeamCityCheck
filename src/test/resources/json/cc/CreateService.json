@@ -1,0 +1,26 @@
+{
+    "tabBarClaimTabMoreOption" : "xpathClick",
+    "claimSearch" : "xpathSetValue",
+    "clickSearch": "xpathClick",
+    "Actions" : "labelClick",
+    "Service" : "labelClick",
+    "Related To" : "labelSelect",
+    "Add" : "labelClick",
+    "Auto body" : "xpathClick",
+    "Ok" : "xpathClick",
+    "Request Type" : "labelSelect",
+    "Vendor": {
+        "Vendor Name" : "xpathClick",
+        "New Vendor" : "labelClick",
+        "New Vendor2" : "xpathClick",
+        "Autobody Repair Shop" : "labelClick",
+        "Name": "labelSetValue",
+        "Tax ID (EIN)" : "labelSetValue",
+        "Update": "xpathClick",
+        "Cancel": "labelClick",
+        "Update1": "xpathClick"
+    },
+    "Customer Contact" : "labelSelect",
+    "Service Address" : "labelSelect",
+    "Submit": "labelClick"
+}

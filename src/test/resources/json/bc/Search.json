@@ -1,0 +1,15 @@
+{
+  "SearchPolicy": {
+    "Policy": "xpathClick",
+    "Policy #": "labelSetValue",
+    "SearchButton": "xpathClick",
+    "SearchResultPolicy": "xpathClick"
+  },
+  "SearchAccount": {
+    "Account": "xpathClick",
+    "Account #": "labelSetValue",
+    "SearchButton": "xpathClick",
+    "SearchResultAccount": "xpathClick"
+  }
+
+}

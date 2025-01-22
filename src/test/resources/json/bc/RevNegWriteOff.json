@@ -1,0 +1,17 @@
+{
+  "ReversalNegativeWriteOff": {
+    "Actions": "xpathClick",
+    "New Transaction": "labelHover",
+    "Negative Write-Off Reversal": "xpathClick",
+    "Search Negative Write-Off":  "xpathClick",
+    "Select 1st Negative Write-Off":  "xpathClick",
+    "Finish": "xpathClick"
+  },
+
+  "ValidateReversalNegativeWriteOff": {
+    "Transactions": "xpathClick",
+    "DateDesc": "xpathClick",
+    "DateAsc": "xpathClick",
+    "ValidationAmount": "labelHover"
+  }
+}

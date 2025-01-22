@@ -1,0 +1,15 @@
+{
+    "PaymentSuspense":{
+        "PaymentActions":  "xpathClick",
+        "MoveToSuspense":  "xpathClick",
+        "Account #" : "labelSetValue",
+        "SuspenseExecute":  "xpathClick"
+    },
+    "ValidatePaymentSuspense": {
+        "Desktop": "xpathClick",
+        "SuspensePaymentTab": "xpathClick",
+        "PolicyFilter": "xpathClick",
+        "PolicyFilter2": "xpathClick",
+        "Amount": "xpathAssert"
+    }
+}

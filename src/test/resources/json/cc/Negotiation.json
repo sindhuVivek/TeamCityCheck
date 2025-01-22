@@ -1,0 +1,27 @@
+{
+"CreateNegotiation":{
+  "Plan of Action": "xpathClick",
+  "Negotiations": "labelClick",
+  "New Negotiation": "xpathClick",
+  "Name": "xpathSetValue",
+  "Related To": "labelSelect",
+  "Update": "labelClick",
+  "NegotiationsTitle": "xpathAssert"
+  },
+"EditNegotiation":{
+  "Plan of Action": "xpathClick",
+  "Negotiations": "labelClick",
+  "Edit": "xpathClick",
+  "Name": "xpathSetValue",
+  "Related To": "labelSelect",
+  "Update": "labelClick",
+  "NegotiationsTitle": "xpathAssert"
+},
+  "DeleteNegotiation":{
+    "Plan of Action": "xpathClick",
+    "Negotiations": "labelClick",
+    "NegotiationCheckbox": "xpathClick",
+    "Delete": "labelClick",
+    "NegotiationsTitle": "xpathAssert"
+  }
+}

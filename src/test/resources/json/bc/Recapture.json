@@ -1,0 +1,18 @@
+{
+    "recaptureAmount": {
+        "Account": "xpathClick",
+        "Account #": "labelSetValue",
+        "Search": "xpathClick",
+        "AccountNumberLink": "xpathClick",
+        "Actions": "xpathClick",
+        "New Transaction": "labelHover",
+        "Recapture": "xpathClick",
+        "Amount": "labelSetValue",
+        "Finish": "labelClick",
+        "Charges": "xpathClick"
+    },
+    "validateAmount": {
+        "DateSortAsc": "xpathClick",
+        "DateSortDesc": "xpathClick"
+    }
+}

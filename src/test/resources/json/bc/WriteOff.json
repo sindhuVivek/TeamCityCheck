@@ -1,0 +1,22 @@
+{
+  "WriteOff": {
+    "Actions": "xpathClick",
+    "New Transaction": "labelHover",
+    "Write-Off": "xpathClick",
+    "Set Account As Target of Write-Off":  "xpathClick",
+    "Select 1st policy":  "xpathClick",
+    "Next": "xpathClick",
+    "All": "xpathClick",
+    "WriteOffAmount": "labelSetValue",
+    "Reason": "labelSelect",
+    "Next2": "xpathClick",
+    "Finish": "xpathClick"
+  },
+  "ValidateWriteOff": {
+    "Transactions": "xpathClick",
+    "DateDesc": "xpathClick",
+    "DateAsc": "xpathClick",
+    "Description": "xpathAssert",
+    "Paid": "xpathAssert"
+  }
+}

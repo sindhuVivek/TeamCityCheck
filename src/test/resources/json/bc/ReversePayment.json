@@ -1,0 +1,9 @@
+{
+  "ReversePayment": {
+    "Payments": "xpathClick",
+    "Last Payment Actions": "xpathClick",
+    "Last Reverse": "xpathClick",
+    "Reverse Reason": "labelSelect",
+    "Reverse OK" : "xpathClick"
+  }
+}

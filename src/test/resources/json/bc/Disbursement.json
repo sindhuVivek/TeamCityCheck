@@ -1,0 +1,21 @@
+{
+    "Disbursement": {
+        "Actions": "xpathClick",
+        "New Transaction": "labelHover",
+        "Disbursement": "xpathClick",
+        "Amount": "labelSetValue",
+        "Payment Date": "labelSetValue",
+        "Reason": "labelSelect",
+        "Next": "labelClick",
+        "Finish": "labelClick",
+        "DisbursementTab": "xpathClick"
+    },
+    "DisbursementDetails":{
+        "Disbursement #": "xpathClick",
+        "Disbursement #2": "xpathClick",
+        "Amount In Table2": "xpathClick",
+        "Amount In Table": "xpathAssert",
+        "Status": "xpathAssert",
+        "Due Date": "xpathAssert"
+    }
+}

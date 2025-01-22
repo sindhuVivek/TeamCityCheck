@@ -1,0 +1,19 @@
+{
+  "Claim": "xpathClick",
+  "ClaimNumber": "xpathSetValue",
+  "ClaimFindBtn": "xpathClick",
+  "ActionMenu": "xpathClick",
+  "EvaluationBtn": "xpathClick",
+  "evaluationName": "xpathSetValue",
+  "evaluationAmount": "xpathSetValue",
+  "UpdateBtn": "xpathClick",
+  "PlanOfActionBtn": "xpathClick",
+  "EvaluationsTab": "xpathClick",
+  "EvaluationEdit": "xpathClick",
+  "UpdateInsuredLiability": "xpathSetValue",
+  "UpdateOtherLiabilityClick": "xpathClick",
+  "UpdateOtherLiability": "xpathSetValue",
+  "EditEvaluationsUpdate": "xpathClick",
+  "SelectEvaluation": "xpathClick",
+  "DeleteBtn": "xpathClick"
+}

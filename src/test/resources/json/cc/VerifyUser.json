@@ -1,0 +1,20 @@
+{
+    "Administration":"labelClick",
+    "Users & Security":"labelClick",
+    "User name":"labelSetValue",
+    "Search":"labelClick",
+    "User Select":"xpathClick",
+    "Name":"xpathAssert",
+    "Role Name":"xpathAssert",
+    "Role Description":"xpathAssert",
+    "Group":"xpathAssert",
+    "Member Status":"xpathAssert",
+    "Manager Status":"xpathAssert",
+    "Profile":"xpathClick",
+    "Email":"xpathAssert",
+    "Authority Limit":"xpathClick",
+    "Authority Limit Profile":"xpathAssert",
+    "Authority Description":"xpathAssert",
+    "Limit Type":"xpathAssert",
+    "Amount":"xpathAssert"
+}

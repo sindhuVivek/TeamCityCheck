@@ -1,0 +1,19 @@
+{
+    "Administration": "labelClick",
+    "Users & Security": "labelClick",
+    "Groups": "xpathClick",
+    "Group Name": "labelSetValue",
+    "Search": "labelClick",
+    "Group Select": "xpathClick",
+    "Group Type": "xpathAssert",
+    "Supervisor": "xpathAssert",
+    "Security Zone": "xpathAssert",
+    "User Name": "xpathAssert",
+    "Member Status": "xpathAssert",
+    "Active Status": "xpathAssert",
+    "Vacation Status": "xpathAssert",
+    "Proximity Search Status": "xpathAssert",
+    "Queues": "xpathClick",
+    "Visible in Subgroups": "xpathAssert",
+    "Description": "xpathAssert"
+}

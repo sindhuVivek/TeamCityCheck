@@ -1,0 +1,10 @@
+{
+  "Address Book": "xpathClick",
+  "Type" : "xpathClick",
+  "SubType": "xpathSelect",
+  "Company Name": "xpathSetValue",
+  "Contacts SearchBtn" : "xpathClick",
+  "Person First Name" : "xpathSetValue",
+  "Person Last Name" : "xpathSetValue",
+  "Contacts SearchBtn2" : "xpathClick"
+}
