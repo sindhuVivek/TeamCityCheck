@@ -1,0 +1,49 @@
+{
+    "PolicyRewrite": {
+        "Search": "xpathClick",
+        "Policies": "labelClick",
+        "Policy Number": "labelSetValue",
+        "Search Policy": "xpathClick",
+        "Open Policy": "xpathClick",
+        "Actions": "labelClick",
+        "Rewrite Full Term": "labelClick",
+        "Rewrite Remainder of Term": "labelClick",
+        "Underwriting Companies": "labelSelect",
+        "Rewrite Quote": "xpathClick",
+        "Issue Policy": "xpathClickAndHandleAlert"
+    },
+    "PolicyRewriteNewTerm": {
+        "Search": "xpathClick",
+        "Policies": "labelClick",
+        "Policy Number": "labelSetValue",
+        "Search Policy": "xpathClick",
+        "Open Policy": "xpathClick",
+        "Actions": "labelClick",
+        "Rewrite New Term": "labelClick",
+        "Underwriting Companies": "labelSelect",
+        "Rewrite Quote": "xpathClick",
+        "Risk Analysis": "labelClick",
+        "UW Issue Approve": "xpathClick",
+        "OK": "xpathClick",
+        "Issue Policy": "xpathClickAndHandleAlert"
+
+    },
+    "PolicyRewriteNewAccount": {
+        "Search": "xpathClick",
+        "Accounts": "labelClick",
+        "Account Number": "labelSetValue",
+        "Search Account": "xpathClick",
+        "Open Account": "xpathClick",
+        "Actions": "labelClick",
+        "Rewrite Policies to this Account": "labelClick",
+        "Rewrite Account Number": "xpathSetValue",
+        "Search Other Account": "xpathClick",
+        "Open Other Account": "xpathClick",
+        "Select Policy": "xpathClick",
+        "Rewrite Policies": "xpathClick",
+        "Open Rewrite Policy": "xpathClick",
+        "Underwriting Companies": "labelSelect",
+        "Rewrite New Account Quote": "xpathClick",
+        "Issue Policy": "xpathClickAndHandleAlert"
+    }
+}
